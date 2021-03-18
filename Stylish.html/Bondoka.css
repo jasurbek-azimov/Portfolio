@@ -1,0 +1,130 @@
+.nav{
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    display: flex;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+;
+    
+}
+.logo{
+    margin-top: 13px;
+    margin-left: 90px;
+    margin-right: 20px;
+}
+.nav_link{
+    
+    margin-left: 180px;
+    margin-top: 30px;
+    font-size: 13px;
+    color: black;
+    display: flex;
+    list-style: none;
+
+
+}
+li{
+    padding-left: 40px;
+    
+}
+.but{
+    margin-left: 240px;
+    margin-top: 23px;
+    width: 75px;
+    height: 27px;
+    border-radius: 5px;
+    border: rgb(108, 236, 108);
+    color: white;
+    background-color: rgb(108, 236, 108);
+}
+.but:hover{
+    background-color: red;
+}
+
+.Creativ{
+    color: #9589da;
+}
+
+.btn_1{
+    margin-top: 30px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    padding: 14px 35px;
+    background-color: #896eff;
+    color: #ffffff;
+    border-radius: 10px;
+    border:  #896eff;
+    font-size: 12px;
+    font-weight: 550;
+}
+
+.div_3{
+
+    float: left;
+    padding: 0 1rem;
+}
+
+.div_asos{
+    margin-left: 120px;
+    margin-top: 80px;
+
+    display: flex;
+}
+
+
+.img_1{
+
+    width: 600px;
+    height: 500px;
+}
+
+.icons1{
+    margin-left: 150px;
+    margin-top: 240px;
+}
+
+.icons{
+    padding-left: 40px;
+    
+}
+
+.div4{
+    margin-top: 90px;
+}
+
+.div5{
+    margin-left: 90px;
+    display: flex;
+}
+
+.divcha{
+    margin-left: 40px;
+    border: 1px solid #ffffff;
+    height: 200px;
+    border-radius: 10px;
+    padding: 35px 15px;
+    width: 300px;
+    box-shadow: 0px 0px 30px -10px rgba(104, 95, 95, 0.75);
+    background-image: url(../img/core-img/cards-bg.png);
+    background-size: cover;
+    background-color: #ffffff;
+}
+
+.btn2{
+    margin-left: 30px;
+    border: #896eff;
+    padding: 14px 35px;
+    background-color: #896eff;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 550;
+}
+
+.login{
+    display: flex;
+    background-color: #9b8cdd;
+    
+
+}
